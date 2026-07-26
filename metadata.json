@@ -1,0 +1,6 @@
+{
+  "name": "Sayani & Abhijit Love Proposal",
+  "description": "An enchanting, interactive love proposal website created by Abhijit for Sayani with interactive envelope letter, romantic Bengali story, floating hearts, and celebratory confetti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
